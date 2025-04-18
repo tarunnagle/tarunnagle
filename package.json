@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Praneeth2025.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://github.com/tarunnagle/tarunnagle",
+  "name": "tarunnagle",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,6 +32,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
   },
   "eslintConfig": {
     "extends": [
